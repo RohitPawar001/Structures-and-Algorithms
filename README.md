@@ -1,1 +1,1 @@
-# Structure and Algorithms in python
+# Structures and Algorithms in python
