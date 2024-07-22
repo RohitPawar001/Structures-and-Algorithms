@@ -79,7 +79,7 @@ class LinkedList:
         
             temp = self.head
             while temp:
-                print(temp.data if (temp.data != None),end = " ")
+                print(temp.data,end = " ")
                 temp = temp.next 
             print()
                           
