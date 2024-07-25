@@ -10,8 +10,25 @@
     tuple are enclosed within the () braces and elements are seperated by commas and it can store different datatypes 
 
 <h1>3. sets </h3>
-     A set is a collection which is unordered, unchangeable, and unindexed. sets does not allow duplicates
-     <br>
-     sets are enclosed within {   } braces.
+     
+Sets are unordered collections of unique elements. In Python, you can create sets using curly braces {} or the set() constructor.
+(~ # Create sets
+set_a = {1, 2, 3}
+set_b = {3, 4, 5}
 
-    
+# Union
+union_result = set_a | set_b
+print("Union:", union_result)
+
+# Intersection
+intersection_result = set_a & set_b
+print("Intersection:", intersection_result)
+
+# Difference
+difference_result = set_a - set_b
+print("Difference:", difference_result)
+
+# Membership testing
+print(2 in set_a)  # True
+print(6 in set_a)  # False
+~)
