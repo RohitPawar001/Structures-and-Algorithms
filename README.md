@@ -9,7 +9,7 @@
     <br>
     tuple are enclosed within the () braces and elements are seperated by commas and it can store different datatypes 
 
-<h3>3. sets </h3>
+<h1>3. sets </h3>
      A set is a collection which is unordered, unchangeable, and unindexed. sets does not allow duplicates
      <br>
      sets are enclosed within {   } braces.
