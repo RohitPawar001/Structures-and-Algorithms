@@ -16,15 +16,15 @@ Sets are unordered collections of unique elements. In Python, you can create set
 set_a = {1, 2, 3}
 set_b = {3, 4, 5}
 
-# Union
+**Union**
 union_result = set_a | set_b
 print("Union:", union_result)
 
-# Intersection
+**Intersection**
 intersection_result = set_a & set_b
 print("Intersection:", intersection_result)
 
-# Difference
+**Difference**
 difference_result = set_a - set_b
 print("Difference:", difference_result)
 
