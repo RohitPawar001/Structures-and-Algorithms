@@ -28,7 +28,7 @@ print("Intersection:", intersection_result)
 difference_result = set_a - set_b
 print("Difference:", difference_result)
 
-# Membership testing
+**Membership testing**
 print(2 in set_a)  # True
 print(6 in set_a)  # False
 ~)
