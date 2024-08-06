@@ -28,7 +28,15 @@ print("Intersection:", intersection_result)
 difference_result = set_a - set_b
 print("Difference:", difference_result)
 
-# Membership testing
+**Membership testing**
 print(2 in set_a)  # True
 print(6 in set_a)  # False
 ~)
+
+<h1>4.Stack</h1>
+stack follows LIFO (last in last out ) priciple ie the lastly inserted elemetn is get removed first.
+<br> in python the stack can be implemented using list.
+<br> <img src = "https://github.com/user-attachments/assets/87984e52-035b-4af7-8069-6a4dc84d7d64" !>
+<br> the element insertation and deletion done at the same end.
+<br> we can perform two operation in stack ther are <br> 1.push <br> 2.pop
+
