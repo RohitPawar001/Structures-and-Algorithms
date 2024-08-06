@@ -40,3 +40,8 @@ stack follows LIFO (last in last out ) priciple ie the lastly inserted elemetn i
 <br> the element insertation and deletion done at the same end.
 <br> we can perform two operation in stack ther are <br> 1.push <br> 2.pop
 
+<h1>bytearray</h1>
+A binary array in Python typically refers to an array that contains binary data, which is data represented in the form of 0s and 1s. There are several ways to work with binary arrays in Python, depending on your specific needs. Here are a few common methods:<br>
+1.using numpy <br>2.using array module <br>3.using lists <br>4.using bytearray
+
+
