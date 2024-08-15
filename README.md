@@ -43,7 +43,7 @@ stack follows LIFO (last in last out ) priciple ie the lastly inserted elemetn i
 <h1>Queue</h1>
 A queue in Python is a linear data structure that follows the First In First Out (FIFO) principle, meaning the first element added to the queue will be the first one to be removed. Think of it like a line of people waiting for a service, where the person who arrives first is served first.<br>
 There are several ways to implement a queue in Python:<br>
-![image](https://github.com/user-attachments/assets/a01ea920-0d54-4963-a25b-1379d10dbe8c)
+<img src="https://github.com/user-attachments/assets/a01ea920-0d54-4963-a25b-1379d10dbe8c">
 
 1.using lists<br>2.using queue.Queue<br>3.using 
 
