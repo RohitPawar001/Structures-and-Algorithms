@@ -52,7 +52,7 @@ A binary array in Python typically refers to an array that contains binary data,
 1.using numpy <br>2.using array module <br>3.using lists <br>4.using bytearray
 
 <h1>Dictionary</h1>
-A dictionary in Python is a collection of key-value pairs. Each key is unique and maps to a specific value. Dictionaries are mutable, meaning you can change, add, or remove items after the dictionary is created. They are also ordered as of Python 3.7, meaning the items have a defined order.
+<br>A dictionary in Python is a collection of key-value pairs. Each key is unique and maps to a specific value. Dictionaries are mutable, meaning you can change, add, or remove items after the dictionary is created. They are also ordered as of Python 3.7, meaning the items have a defined order.
 <br>
 **Dictionary methode**
 Here are some useful dictionary methods:<br>
