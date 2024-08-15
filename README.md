@@ -43,10 +43,23 @@ stack follows LIFO (last in last out ) priciple ie the lastly inserted elemetn i
 <h1>Queue</h1>
 A queue in Python is a linear data structure that follows the First In First Out (FIFO) principle, meaning the first element added to the queue will be the first one to be removed. Think of it like a line of people waiting for a service, where the person who arrives first is served first.<br>
 There are several ways to implement a queue in Python:<br>
+<img src="https://github.com/user-attachments/assets/a01ea920-0d54-4963-a25b-1379d10dbe8c">
+
 1.using lists<br>2.using queue.Queue<br>3.using 
 
 <h1>bytearray</h1>
 A binary array in Python typically refers to an array that contains binary data, which is data represented in the form of 0s and 1s. There are several ways to work with binary arrays in Python, depending on your specific needs. Here are a few common methods:<br>
 1.using numpy <br>2.using array module <br>3.using lists <br>4.using bytearray
+
+<h1>Dictionary</h1>
+<br>A dictionary in Python is a collection of key-value pairs. Each key is unique and maps to a specific value. Dictionaries are mutable, meaning you can change, add, or remove items after the dictionary is created. They are also ordered as of Python 3.7, meaning the items have a defined order.
+<br>
+**Dictionary methode**
+Here are some useful dictionary methods:<br>
+
+keys(): Returns a view object of all keys.<br>
+values(): Returns a view object of all values.<br>
+items(): Returns a view object of all key-value pairs.<br>
+update(): Updates the dictionary with key-value pairs from another dictionary or an iterable of key-value pairs.
 
 
