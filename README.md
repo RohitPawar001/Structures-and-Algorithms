@@ -51,4 +51,15 @@ There are several ways to implement a queue in Python:<br>
 A binary array in Python typically refers to an array that contains binary data, which is data represented in the form of 0s and 1s. There are several ways to work with binary arrays in Python, depending on your specific needs. Here are a few common methods:<br>
 1.using numpy <br>2.using array module <br>3.using lists <br>4.using bytearray
 
+<h1>Dictionary</h1>
+A dictionary in Python is a collection of key-value pairs. Each key is unique and maps to a specific value. Dictionaries are mutable, meaning you can change, add, or remove items after the dictionary is created. They are also ordered as of Python 3.7, meaning the items have a defined order.
+<br>
+**Dictionary methode**
+Here are some useful dictionary methods:<br>
+
+keys(): Returns a view object of all keys.<br>
+values(): Returns a view object of all values.<br>
+items(): Returns a view object of all key-value pairs.<br>
+update(): Updates the dictionary with key-value pairs from another dictionary or an iterable of key-value pairs.
+
 
