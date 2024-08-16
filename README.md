@@ -40,7 +40,7 @@ stack follows LIFO (last in last out ) priciple ie the lastly inserted elemetn i
 <br> the element insertation and deletion done at the same end.
 <br> we can perform two operation in stack ther are <br> 1.push <br> 2.pop
 
-<h1>Queue</h1>
+<h1>5.Queue</h1>
 A queue in Python is a linear data structure that follows the First In First Out (FIFO) principle, meaning the first element added to the queue will be the first one to be removed. Think of it like a line of people waiting for a service, where the person who arrives first is served first.<br>
 There are several ways to implement a queue in Python:<br>
 <img src="https://github.com/user-attachments/assets/a01ea920-0d54-4963-a25b-1379d10dbe8c">
@@ -51,15 +51,28 @@ There are several ways to implement a queue in Python:<br>
 A binary array in Python typically refers to an array that contains binary data, which is data represented in the form of 0s and 1s. There are several ways to work with binary arrays in Python, depending on your specific needs. Here are a few common methods:<br>
 1.using numpy <br>2.using array module <br>3.using lists <br>4.using bytearray
 
-<h1>Dictionary</h1>
+<h1>6.Dictionary</h1>
 <br>A dictionary in Python is a collection of key-value pairs. Each key is unique and maps to a specific value. Dictionaries are mutable, meaning you can change, add, or remove items after the dictionary is created. They are also ordered as of Python 3.7, meaning the items have a defined order.
 <br>
-**Dictionary methode**
+**Dictionary method**
+<br>
 Here are some useful dictionary methods:<br>
 
 keys(): Returns a view object of all keys.<br>
 values(): Returns a view object of all values.<br>
 items(): Returns a view object of all key-value pairs.<br>
 update(): Updates the dictionary with key-value pairs from another dictionary or an iterable of key-value pairs.
+
+<h1>7.Linked List</h1>
+A linked list is a linear data structure where each element, called a node, contains a data part and a reference (or link) to the next node in the sequence. Linked lists are useful for dynamic memory allocation and efficient insertions and deletions.<br>
+
+**Types of Linked Lists**<br>
+Singly Linked List: Each node points to the next node.<br>
+Doubly Linked List: Each node points to both the next and the previous node.<br>
+Circular Linked List: The last node points back to the first node.<br>
+
+**Node Class:** Defines the structure of a node with data and next attributes.<br>
+**LinkedList Class:** Contains methods to insert nodes at the beginning and end, delete nodes, search for nodes, and print the list.<br>
+**Example Usage:** Demonstrates how to create a linked list, insert nodes, search for a node, delete a node, and print the list.<br>
 
 
